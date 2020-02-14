@@ -1,0 +1,181 @@
+{
+	"meta":{
+		"conferenceYear": 2020,
+		"dateStart": "2020-06-18",
+		"dateEnd": "2020-06-19",
+		"conferenceName": "ACSE 2020"
+	},
+	"header":{
+		"title" : "ACSE 2020",
+		"subtitle" : "The African Conference on Software Engineering",
+		"dateTitle" : "June 18-19, 2020",
+		"locationPlaceName": "Jomo Kenyatta University of Agriculture and Technology",
+		"locationAreaName": "Nairobi, Kenya",
+		"bannerImage":"images/hotel1-banner.jpg",
+		"bannerTopPlacement" : "-310px",
+		"bannerRightPlacement" : "-640px"
+	},
+	"socialMediaLinks":{
+		"facebook":"https://www.facebook.com/SEiA2018/",
+		"twitter":"https://twitter.com/SEiA2018"
+	},
+	"dates":[
+		{
+			"title":"Paper Submission Deadline (<a target='_blank' href='https://easychair.org/conferences/?conf=acse2020'>link</a>)",
+			"date":"April 17, 2020",
+			"showInNavBar": true
+		},
+
+		{
+			"title":"Notification of Acceptance",
+			"date": "May 14, 2020",
+			"showInNavBar": true
+		},
+		{
+			"title":"Camera Ready Submissions Due",
+			"date": "May 31, 2020",
+			"showInNavBar": true
+		},
+		{
+			"title":"ACSE 2020 Conference Dates",
+			"date": "June 18-19, 2020",
+			"showInNavBar": true
+		}
+	],
+	"footerLinks":{
+		"firstSection":{
+			"title":"conference",
+			"links":[
+				{
+					"name": "Technical Program",
+					"link": "#technical-program.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Keynote Speakers",
+					"link": "#plenary-speakers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Summer School",
+					"link": "workshops.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Social Events ",
+					"link": "#events.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Panel Session",
+					"link": "#panel-session.php",
+					"openInNewWindow": false
+				}
+			]
+		},
+		"secondSection":{
+			"title":"destination",
+			"links":[
+				{
+					"name": "Hotel",
+					"link": "hotel.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Nairobi National Park",
+					"link": "http://www.kws.go.ke/parks/nairobi-national-park",
+					"openInNewWindow": true
+				},
+				{
+					"name": "Flights",
+					"link": "https://www.google.com/flights/#search;t=r-Nairobi",
+					"openInNewWindow": true
+				},
+				{
+					"name": "Local Information",
+					"link": "local-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Map",
+					"link": "https://www.google.com/maps/place/JKUAT+Nairobi+Kenya",
+					"openInNewWindow": true
+				}
+			]
+		},
+		"thirdSection":{
+			"title":"author links",
+			"links":[
+				{
+					"name": "Article Templates",
+					"link": " https://www.ieee.org/conferences/publishing/templates.html",
+					"openInNewWindow": true
+				},
+
+				{
+					"name": "Visa Information",
+					"link": "#visa-information.php",
+					"openInNewWindow": false
+				},
+	
+				{
+					"name": "Student Travel Support",
+					"link": "#student-travel-support.php",
+					"openInNewWindow": false
+				}
+			]
+		},
+		"fourthSection":{
+			"title":"sitemap",
+			"links":[
+				{
+					"name": "Home",
+					"link": "index.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Organizers",
+					"link": "organizers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Visa Information",
+					"link": "#visa-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Events",
+					"link": "#events.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "Registration",
+					"link": "#registration.php",
+					"openInNewWindow": false
+				}
+			]
+		}
+	},
+	"newsTicker":[
+		{
+			"content":"Call for papers has been published!!  Click here.",
+			"link":"cfp.php",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Call for the 4th Bright Summer School in Software Engineering and Information Systems has been published!!",
+			"link":"http://ssc.mak.ac.ug/bright-summer-school-2020-on-software-engineering-and-is/",
+			"openInNewWindow": true
+		},
+		{
+			"content":"Check out the Bright Summmer School!",
+			"link":"workshops.php",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Click here for the local information.",
+			"link":"local-information.php",
+			"openInNewWindow": false
+		}		
+	]
+}
