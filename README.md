@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IEEE Conference Website Template
 An easily editable IEEE Conference Website template
 
@@ -250,3 +251,7 @@ If you want to add to this template system, more power to you!  If you feel like
 
 # Still need help or want a feature addition but don't know how to do it?
 No problem, we like to help.  Create an issue in the [github issue tracker](https://github.com/bjyurkovich/ieee-conference-web-template/issues)!
+=======
+# ACSE2020-website
+Website files for ACSE 2020
+>>>>>>> cc19f803f5dedf21d1b7a2a06f9fc8ece13a6293
