@@ -8,7 +8,7 @@
 	"header":{
 		"title" : "ACSE 2020",
 		"subtitle" : "The African Conference on Software Engineering",
-		"dateTitle" : "June 18-19, 2020",
+		"dateTitle" : "August 18-19, 2020",
 		"locationPlaceName": "Jomo Kenyatta University of Agriculture and Technology",
 		"locationAreaName": "Nairobi, Kenya",
 		"bannerImage":"images/hotel1-banner.jpg",
@@ -21,24 +21,24 @@
 	},
 	"dates":[
 		{
-			"title":"Paper Submission Deadline (<a target='_blank' href='https://easychair.org/conferences/?conf=acse2020'>link</a>)",
-			"date":"April 17, 2020",
+			"title":"Paper Submission (Extended) Deadline (<a target='_blank' href='https://easychair.org/conferences/?conf=acse2020'>link</a>)",
+			"date":"June 17, 2020",
 			"showInNavBar": true
 		},
 
 		{
 			"title":"Notification of Acceptance",
-			"date": "May 14, 2020",
+			"date": "July 14, 2020",
 			"showInNavBar": true
 		},
 		{
 			"title":"Camera Ready Submissions Due",
-			"date": "May 31, 2020",
+			"date": "July 30, 2020",
 			"showInNavBar": true
 		},
 		{
 			"title":"ACSE 2020 Conference Dates",
-			"date": "June 18-19, 2020",
+			"date": "August 18-19, 2020",
 			"showInNavBar": true
 		}
 	],
