@@ -6,7 +6,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 <div class="text">
 
-	<div style="font-weight: bold; font-size: larger;">List of Accepted papers is now available. Authors of accepted and rejected papers have been notified.  <a style="color:red" href="https://css.paperplaza.net/conferences/scripts/rtf/CCTA17_ProgramAtAGlanceWeb.html" target="_blank">click here</a> to see the conference program and presentation schedule. </div>
+	<div style="font-weight: bold; font-size: larger;">List of Accepted papers is now available. Authors of accepted and rejected papers have been notified.  <a style="color:red" href="technical-program.php">click here</a> to see the conference program and presentation schedule. </div>
 	<br>
 	<br><br>
 
