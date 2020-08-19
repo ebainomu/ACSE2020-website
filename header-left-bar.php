@@ -122,14 +122,14 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 					<li name="registration"><a href="cfp.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>CALL FOR PAPERS</a></li>
 
-<!--
-					<li name="registration"><a href="#registration.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>REGISTRATION</a></li>
 
-					<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed" aria-hidden="true"></i>HOTEL</a></li>
+					<li name="accepted"><a href="accepted-papers.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>ACCEPTED PAPERS</a></li>
 
-					<li name="hotel"><a href="technical-program.php"><i class="fa fa-lg fa-tasks" aria-hidden="true"></i>TECHNICAL PROGRAM</a></li>
+	<!--				<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed" aria-hidden="true"></i>HOTEL</a></li>
 -->
-					<li name="hotel"><a href="workshops.php"><i class="fa fa-lg fa-wrench" aria-hidden="true"></i>SUMMER SCHOOL</a></li>
+					<li name="program"><a href="technical-program.php"><i class="fa fa-lg fa-tasks" aria-hidden="true"></i>CONFERENCE PROGRAM</a></li>
+
+					<li name="workshop"><a href="workshops.php"><i class="fa fa-lg fa-wrench" aria-hidden="true"></i>SUMMER SCHOOL</a></li>
 <!--
 
 					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>EVENTS</a></li>

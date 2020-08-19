@@ -1,14 +1,14 @@
 {
 	"meta":{
 		"conferenceYear": 2020,
-		"dateStart": "2020-06-18",
-		"dateEnd": "2020-06-19",
+		"dateStart": "2020-09-16",
+		"dateEnd": "2020-09-17",
 		"conferenceName": "ACSE 2020"
 	},
 	"header":{
 		"title" : "ACSE 2020",
 		"subtitle" : "The African Conference on Software Engineering",
-		"dateTitle" : "August 18-19, 2020",
+		"dateTitle" : "September 16-17, 2020",
 		"locationPlaceName": "Jomo Kenyatta University of Agriculture and Technology",
 		"locationAreaName": "Nairobi, Kenya",
 		"bannerImage":"images/hotel1-banner.jpg",
@@ -38,7 +38,7 @@
 		},
 		{
 			"title":"ACSE 2020 Conference Dates",
-			"date": "August 18-19, 2020",
+			"date": "September 16-17, 2020",
 			"showInNavBar": true
 		}
 	],
@@ -158,8 +158,8 @@
 	},
 	"newsTicker":[
 		{
-			"content":"Call for papers has been published!!  Click here.",
-			"link":"cfp.php",
+			"content":"List of ACSE 2020 Accepted  papers has been published!!  Click here.",
+			"link":"accepted-papers.php",
 			"openInNewWindow": false
 		},
 		{
@@ -168,8 +168,8 @@
 			"openInNewWindow": true
 		},
 		{
-			"content":"Check out the Bright Summmer School!",
-			"link":"workshops.php",
+			"content":"Check out the Conference Program!",
+			"link":"technical-program.php.php",
 			"openInNewWindow": false
 		},
 		{

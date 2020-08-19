@@ -44,10 +44,11 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 </div> -->
 
 <div class="text">
-
+<!--
 <div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to June 17 2020!</div> 
-
-<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> New Virtual Conference Date August 18-19 2020!</div> 
+--> 
+	
+<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> New Virtual Conference Date September 16-17 2020!</div> 
 
 
 The African Conference on Software Engineering (ACSE) is a forum for researchers, innovators, and leading professionals to discuss the state and future of software engineering in Africa. The event provides a platform for exchanging ideas on the role of software engineering in socio-economic development of the continent, the future directions of software engineering research and education in Africa, creating networks with the global software engineering community, and sharing exciting results with the global community.
