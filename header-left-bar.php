@@ -129,12 +129,12 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 -->
 					<li name="program"><a href="technical-program.php"><i class="fa fa-lg fa-tasks" aria-hidden="true"></i>CONFERENCE PROGRAM</a></li>
 
-					<li name="workshop"><a href="workshops.php"><i class="fa fa-lg fa-wrench" aria-hidden="true"></i>SUMMER SCHOOL</a></li>
-<!--
+					<li name="workshop"><a href="plenary-speakers.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>KEYNOTE ADDRESS</a></li>
 
-					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>EVENTS</a></li>
+
+					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i>REGISTRATION</a></li>
 				
-
+<!--
 					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i>AUTHORS</a></li>
 
 					<li name="students"><a href="student-router.php"><i class="fa fa-lg fa-graduation-cap" aria-hidden="true"></i>STUDENTS</a></li>

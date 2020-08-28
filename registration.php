@@ -23,129 +23,14 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 <div class="text">
 	<div style="font-weight: bold">
-		Registration is now OPEN! <a style="color:red" href="http://css.paperplaza.net" target="_blank">Please click here</a>. Note that all attendees must register for the conference, whether author, presenter, or interested participant. Be sure to check out the pre-conference Workshops below.
+		Registration is now OPEN! <a style="color:red" href="https://docs.google.com/forms/d/e/1FAIpQLSfYsNAWDBA_zNnBDEtga7q2ZNEld8WpbqSoNNs9RoXebpRqBw/viewform" target="_blank">Please click here</a>. Note that all attendees must register for the conference, whether author, presenter, or interested participant. The virtual conferencing details will be sent to the registered participants.
 	</div>
 	<div style="width: 100%;border-bottom: 2px solid black; margin-bottom: 20px;margin-top: 20px;"></div>
 	<div style="margin: 10px 0 30px 0;">
-		Registration is mandatory for all conference and workshop participants. Personal name badge will be provided to identify registered participants, and these badges should be worn at all conference functions.
+		Registration is mandatory for all conference participants. <a style="color:red" href="https://docs.google.com/forms/d/e/1FAIpQLSfYsNAWDBA_zNnBDEtga7q2ZNEld8WpbqSoNNs9RoXebpRqBw/viewform" target="_blank">Registration is FREE</a>.
 	</div>
 	
-	<h2>Registration Desk</h2>
-	<p style="padding-bottom: 20px">
-		The conference registration desk will be located outside the conference session rooms (near the Ballroom and Meeting Rooms, next to the Honu Garden). At this desk you will be able to check in, pick up your registration materials and banquet tickets, and consult with conference staff for tips on local dining and conference information.  The schedule for the registration desk is as follows:
-
-		<div class="datagrid" style="width: 50%; margin:0 auto;margin-bottom: 30px">
-		<table style="margin:0 auto;margin-top: 0">
-			<thead><tr><th>Date</th><th>Desk Hours</th></tr></thead>
-			<tbody>
-				<tr><td>Sunday, August 27</td><td>9:00 a.m. - 6:00 p.m.</td></tr>
-				<tr class="alt"><td>Monday, August 28</td><td>7:30 a.m. - 6:00 p.m.</td></tr>
-				<tr><td>Tuesday, August 29</td><td>7:30 a.m. - 6:00 p.m.</td></tr>
-				<tr class="alt"><td>Wednesday, August 30</td><td>7:30 a.m. - 3:00 p.m.</td></tr>
-			</tbody>
-		</table>
-		</div>
-	</p>
-
-	<h2>Conference Registration Rates and Fees</h2>
-	<p>
-		Attendees must register under one of the registration categories listed below.  All registered participants will receive admission to the Welcome and Farewell receptions and one set of the conference proceedings on a USB flash drive. Full registration for Members and Non-Members also includes the conference banquet on Tuesday, August 29.  Registration packets (including printed receipts) for all advance registrations will be available at the conference registration desk.
-		<div class="datagrid" style="margin: 20px 0 20px 0;">
-		<table style="margin:0 auto;">
-			<thead>
-				<tr><th>Registration Category</th><th>Advance Registration (by July 1, 2017)</th><th>On-Site Registration (after July 1, 2017)</th><th>Banquet</th></tr></thead>
-			<tbody>
-				<tr><td>Member</td><td>630 USD</td><td>720 USD</td><td>included</td></tr>
-				<tr class="alt"><td>Non-Member</td><td>760 USD</td><td>850 USD</td><td>included</td></tr>
-				<tr><td>IEEE Life Member/Retiree</td><td>375 USD</td><td>450 USD</td><td>not included</td></tr>
-				<tr class="alt"><td>Student</td><td>310 USD</td><td>375 USD</td><td>not included</td></tr>
-			</tbody>
-		</table>
-		</div>
-
-		<div>
-			<span style="font-weight: bold">Member:</span> If you are a member of IEEE or SICE, you may register at "Member" rate. This registration category is entitled to upload up to three final papers. Additional papers can be uploaded for 200 USD each. 
-		</div>
-		<br>
-		<div>
-			<span style="font-weight: bold">Non-Member:</span> If you are not a member of IEEE or SICE you should register at the Non-Member rate. This registration category is entitled to upload up to three final papers. Additional papers can be uploaded for 200 USD each.
-		</div>
-		<br>
-		<div>
-			<span style="font-weight: bold">IEEE Life Members:</span> If your IEEE membership status is that of Life Member, Life Senior Member or Life Fellow, you may register at Life Member rate (send an email with your PIN and IEEE number to the registration chair, Professor Simona Onori <a href="mailto:sonori@clemson.edu" style="color:red">[link to email]</a>, prior to registering). This registration category is entitled to upload up to three final papers. Additional papers can be uploaded for 200 USD each.
-		</div>
-		<br>
-		<div>
-			<span style="font-weight: bold">Retiree:</span> If at the time of registration or at the time of initial submission of paper for review you are a member of any of the above organization(s), and had retired or did not hold a full time employment, you may register at Retiree rate. This registration category is entitled to upload ONLY ONE final paper. Additional papers can be uploaded for 200 USD each.
-		</div>
-		<br>
-		<div>
-			<span style="font-weight: bold">Student:</span> If at the time of registration or at the time of initial submission of paper for review you were a "full-time student" at a recognized institution, you may register at student rate. You may be required to provide evidence of full-time student status. This registration category is entitled to upload ONLY ONE final paper. Additional papers can be uploaded for 200 USD each.
-		</div>
-		
-	</p>
-
-	<h2>Additional Fees</h2>
-	<p class="bd">
-		<ul>
-			<li>Cost per paper for extra paper upload: 200 USD</li>
-			<li>Excess Page Charges: 175 USD/page (maximum of two beyond six-page limit)</li>
-			<li>Additional Proceedings (USB): 20 USD/each</li>
-			<li>Additional Evening Banquet Tickets: 125 USD/each</li>
-		</ul>
-	</p>
-
-	<h2>Cancellation Policy</h2>
-	<p class="bd">
-		If an author has uploaded a paper using his or her registration, the registration will not be refunded even if the paper is withdrawn or the author is unable to attend the conference. Other requests for a refund of the advanced registration fee will be processed as follows:
-		<ul>
-			<li>All requests must be sent to the registration chair, Professor Simona Onori <a href="mailto:sonori@clemson.edu" style="color:red">[link to email]</a></li>
-			<li>Requests received by the advance registration deadline of July 1, 2017, will be fully honored and all registration charges will be refunded.</li>
-			<li>Requests received between July 1, 2017 and July 31, 2017 will receive a 50% refund.</li>
-			<li>No refunds will be given for requests received after July 31, 2017.</li>
-		</ul>
-	</p>
-
-	<h1>Workshop Registration</h1>
-	<div>Three preconference workshops will be offered at CCTA 2017 on Sunday, August 27. See the <a href="workshops.php" style="color: red">workshops page</a> for more information. Workshop attendance requires a separate registration payment, as noted below. All prices are in U.S. dollars. 
-
-	<div class="datagrid">
-	<table style="margin:0 auto">
-		<thead>
-			<tr>
-				<th colspan="1"></th>
-				<th colspan="2">By July 1, 2017</th>
-				<th colspan="2">After July 1, 2017</th>
-			</tr>
-		</thead>
-		<tbody>
-			
-			<tr>
-				<td></td>
-				<td>Member or Non-member</td>
-				<td>Student/Retiree/Life Member</td>
-				<td>Member or Non-member</td>
-				<td>Student/Retiree/Life Member</td>
-			</tr>
-			<tr class="alt">
-				<td>Half-Day Workshop</td>
-				<td>120 USD</td>
-				<td>60 USD</td>
-				<td>150 USD</td>
-				<td>75 USD</td>
-			</tr>
-		
-			<tr>
-				<td>Full-Day Workshop</td>
-				<td>200 USD</td>
-				<td>100 USD</td>
-				<td>250 USD</td>
-				<td>125 USD</td>
-			</tr>
-		</tbody>
-	</table>
-	</div>
-</div>
+	
 </div>
 
 

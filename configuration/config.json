@@ -158,24 +158,20 @@
 	},
 	"newsTicker":[
 		{
+			"content":"Keynote address: Software Engineering in a Machine learning world: perspectives from industry by Dr. Ernest Mwebaze",
+			"link":"local-information.php",
+			"openInNewWindow": false
+		},
+		{
 			"content":"List of ACSE 2020 Accepted  papers has been published!!  Click here.",
 			"link":"accepted-papers.php",
 			"openInNewWindow": false
 		},
-		{
-			"content":"Call for the 4th Bright Summer School in Software Engineering and Information Systems has been published!!",
-			"link":"http://ssc.mak.ac.ug/bright-summer-school-2020-on-software-engineering-and-is/",
-			"openInNewWindow": true
-		},
+
 		{
 			"content":"Check out the Conference Program!",
 			"link":"technical-program.php.php",
 			"openInNewWindow": false
-		},
-		{
-			"content":"Click here for the local information.",
-			"link":"local-information.php",
-			"openInNewWindow": false
-		}		
+		}
 	]
 }
