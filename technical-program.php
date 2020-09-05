@@ -16,12 +16,15 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
       </span></p>
     <p class="c2"><strong><span class="c4">Day 1: 16 September 2020</span></strong></p>
     <p class="c2"><strong><span class="c4">Welcome &amp; Introduction</span></strong></p>
-    <p class="c15"><span class="c0">09: 00 – 09: 10 &nbsp; &nbsp; &nbsp;
+    <p class="c15"><span class="c0">09: 00 – 09: 05 &nbsp; &nbsp; &nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waweru Mwangi and Rimiru Richard</span></p>
-    <p class="c2"><span class="c6">09:10 &nbsp; - 09:15 &nbsp; &nbsp; &nbsp;
+    <p class="c2"><span class="c6">09:05 &nbsp; - 09:10 &nbsp; &nbsp; &nbsp;
         &nbsp; &nbsp; &nbsp; Chaudron, Bainomugisha and Hebig</span></p>
+    <p class="c2"><span class="c6">09:10 &nbsp; - 09:20 &nbsp; &nbsp; &nbsp;
+        &nbsp; &nbsp; &nbsp; Prof. Victoria Ngumi, Vice Chancellor, JKUAT</span></p>
     <p class="c2"><span class="c4">&nbsp;</span></p>
-    <p class="c2"><span class="c4">9:15 - 10:00
+	
+    <p class="c2"><span class="c4">9:20 - 10:00
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;Keynote address</strong><br>
       </span></p>
     <p class="c2"><span class="c11 c8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span

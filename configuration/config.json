@@ -48,12 +48,12 @@
 			"links":[
 				{
 					"name": "Technical Program",
-					"link": "#technical-program.php",
+					"link": "technical-program.php",
 					"openInNewWindow": false
 				},
 				{
 					"name": "Keynote Speakers",
-					"link": "#plenary-speakers.php",
+					"link": "plenary-speakers.php",
 					"openInNewWindow": false
 				},
 				{
@@ -158,8 +158,13 @@
 	},
 	"newsTicker":[
 		{
+			"content":"Official Conference opening by Prof. Victoria Ngumi, Vice Chancellor, JKUAT",
+			"link":"technical-program.php.php",
+			"openInNewWindow": false
+		}, 
+		{
 			"content":"Keynote address: Software Engineering in a Machine learning world: perspectives from industry by Dr. Ernest Mwebaze",
-			"link":"local-information.php",
+			"link":"plenary-speakers.php",
 			"openInNewWindow": false
 		},
 		{
