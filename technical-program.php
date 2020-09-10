@@ -8,7 +8,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 	<div style="font-weight: bold; font-size: larger;">The Conference Program is now ready for viewing </div>
 	<br>
-	<div style="font-weight: bold">Be sure to check back here frequently as the Conference Program may change.</div>
+	<div style="font-weight: bold"><a href="#">ALL times in GMT+3 Nairobi Time!</a></div>
     <p class="c2"><span class="c4">ACSE 2020 program</span></p>
     <p class="c2"><strong><span class="c4">Dates: 16-17 September 2020</span></strong></p>
     <p class="c1"><span class="c4"></span></p>
@@ -18,6 +18,9 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
     <p class="c2"><strong><span class="c4">Welcome &amp; Introduction</span></strong></p>
     <p class="c15"><span class="c0">09: 00 – 09: 05 &nbsp; &nbsp; &nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waweru Mwangi and Rimiru Richard</span></p>
+	<p class="c15"><span class="c0">&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kenyan cultural performance </span></p>
+		
     <p class="c2"><span class="c6">09:05 &nbsp; - 09:10 &nbsp; &nbsp; &nbsp;
         &nbsp; &nbsp; &nbsp; Chaudron, Bainomugisha and Hebig</span></p>
     <p class="c2"><span class="c6">09:10 &nbsp; - 09:20 &nbsp; &nbsp; &nbsp;
@@ -31,15 +34,15 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
         class="c3">Ernest
         Mwebaze, Google AI, Ghana and Sunbird AI</span></p>
     <p class="c2"><span class="c6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
-        class="c18">Software
-        Engineering in a machine learning world: Industry experience</span></p>
+        class="c18"><a href="plenary-speakers.php">Software
+        Engineering in a machine learning world: Industry experience</a></span></p>
     <p class="c1"><span class="c4"></span></p>
     <p class="c9"><span class="c4"><strong>Break</strong> </span></p>
     <p class="c9"><span class="c0">10:00 - 10:15</span></p>
     <p class="c9 c13"><span class="c0"></span></p>
     <p class="c2"><strong><span class="c4">Session 1: Software Architecture and
           Design</span></strong></p>
-    <p class="c2"><em><span class="c4">Chair: Michel Chaudron</span></em></p>
+    <p class="c2"><em><span class="c4">Chairs: Michel Chaudron and Rashidah Kasauli</span></em></p>
     <p class="c1"><span class="c4"></span></p>
     <p class="c2"><span class="c6">10:15
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- &nbsp;10:45 &nbsp;</span><span
@@ -66,8 +69,8 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
     <p class="c9 c13"><span class="c0"></span></p>
     <p class="c2"><strong><span class="c4">Session 2: Code Reviews, Requirements
           and Data Processing</span></strong></p>
-    <p class="c2"><em><span class="c11">Chair: </span><span class="c14">Rimiru
-          Richard</span></em></p>
+    <p class="c2"><em><span class="c11">Chairs: </span><span class="c14">Rimiru
+          Richard and Rashidah Kasauli</span></em></p>
     <p class="c2"><span class="c6">13:00 &nbsp; - 13:30 </span><span class="c6 c8">Leonard
         Peter Binamungu and Jimmy T Mbelwa.</span><span class="c0">&nbsp;</span></p>
     <p class="c2 c5"><span class="c0">&nbsp;An Empirical Distribution of Code
@@ -87,11 +90,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
     <p class="c9"><span class="c6">14:30 – 14:45</span></p>
     <p class="c2"><span class="c4">14:45 - 15:45 <strong>Session 3: Breakout
           Session ACM SIGSOFT focus note on SE in Africa</strong></span></p>
+	      <p class="c2 c17"><span class="c4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <strong>Social
+	            interactions.</strong></span></p>
+		  
     <p class="c2"><em><span class="c4">Chair: Regina Hebig</span></em></p>
-    <p class="c2"><span class="c4">15:45-16:30:<strong> Kenyan cultural
-          performance</strong></span></p>
-    <p class="c2 c17"><span class="c4">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Social
-          interactions.</strong></span></p>
     <p class="c1"><span class="c4"></span></p>
     <p class="c2"><span class="c4"><br>
       </span></p>
@@ -100,8 +102,8 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
     <p class="c1"><span class="c4"></span></p>
     <p class="c2"><strong><span class="c4">Session 4: Cloud Applications and
           E-Learning</span></strong></p>
-    <p class="c2"><em><span class="c11">Chair: </span><span class="c16">Dennis
-          Mugambi</span></em></p>
+    <p class="c2"><em><span class="c11">Chairs: </span><span class="c16">Dennis
+          Mugambi and Rashidah Kasauli</span></em></p>
     <p class="c1"><span class="c4"></span></p>
     <p class="c2"><span class="c6">09</span><span class="c6">:15 &nbsp; - 09:45
       </span><span class="c6 c8">Sofie Muriithi, Geoffrey Chemwa and George
